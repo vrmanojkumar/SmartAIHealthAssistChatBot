@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Health-Assistant 🏥
 
 AI-powered Medical Chatbot that provides comprehensive health advice, detailed disease-symptom analysis, and multilingual support using advanced NLP and machine learning. Get personalized recommendations and detailed health information in your preferred language.
@@ -200,3 +201,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR 
 THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+=======
+# SmartAIHealthAssistChatBot
+>>>>>>> 6406dbeab740e8b261d48d3eaaf0965b21df15b9
